@@ -11,7 +11,7 @@
             "request": "launch",
             "program": "${workspaceFolder}/build/src/cmaketest",
             "args": [ "2", "4", "6"],
-            "stopAtEntry": true,
+            "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
             "externalConsole": false,
